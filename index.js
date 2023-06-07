@@ -30,7 +30,9 @@ window.onload = function() {
         "gamere.jpg",
         "hytta.jpg",
         "jul.jpg",
-        "russ.jpg"
+        "russ.jpg",
+	"gutta_ullern.jpg",
+	"gutta_pølser.jpg"
     ];
     
     var randomIndex = Math.floor(Math.random() * images.length);
